@@ -42,7 +42,7 @@ his shower contains nothing more than a cheap bar of soap and store-brand
 shampoo, the cabinet under his sink holds an odd collection of barely used and
 overpriced skin creams, multivitamins, and a "crystal" that was supposed to help
 relieve some of his "negative energy" - all "gifted" to him on various birthdays
-and holidays from family members trying to "be there own boss" in a pyramid
+and holidays from family members trying to "be there (sic) own boss" in a pyramid
 scheme.
 
 ## Connections
