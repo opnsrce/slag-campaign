@@ -1,0 +1,14 @@
+{
+    "name": "slag",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "lint": "eslint -c .eslintrc.json --fix ./"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint-plugin-md": "^1.0.19"
+    }
+}
