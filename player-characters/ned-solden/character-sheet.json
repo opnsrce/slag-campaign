@@ -1,0 +1,230 @@
+{
+    "name": "Ned Solden",
+    "id": "d2a4a844-3186-4221-a1a6-4f01bec68579",
+    "userId": "40e346fa-7d0f-4cff-9f7b-c74945be8fe0",
+    "builderVersion": "0.6.1",
+    "image": "",
+    "user": "",
+    "experiencePoints": 900,
+    "species": {
+        "name": "Human",
+        "abilityScoreImprovementSelectedOption": 0,
+        "abilityScoreImprovement": {
+            "Intelligence": 2,
+            "Dexterity": 1,
+            "Constitution": 1
+        }
+    },
+    "classes": [
+        {
+            "name": "Engineer",
+            "levels": 3,
+            "hitPoints": [
+                5,
+                5
+            ],
+            "abilityScoreImprovements": [],
+            "techPowers": [
+                "On/Off",
+                "Itemize",
+                "Frequency Scan",
+                "Alter Self",
+                "Smuggle",
+                "Tracker Droid Interface",
+                "Dismantle",
+                "Poison Dart",
+                "Decryption Program"
+            ]
+        }
+    ],
+    "baseAbilityScores": {
+        "Strength": 8,
+        "Dexterity": 14,
+        "Constitution": 12,
+        "Intelligence": 15,
+        "Wisdom": 10,
+        "Charisma": 13
+    },
+    "background": {
+        "name": "Office Worker",
+        "feat": {
+            "name": "Feigned Confidence",
+            "type": "Feat"
+        },
+        "feature": ""
+    },
+    "characteristics": {
+        "alignment": "Neutral Dark",
+        "Personality Traits": "Live to Work",
+        "Ideal": "",
+        "Bond": "",
+        "Flaw": "",
+        "Gender": "Male",
+        "Place of Birth": "",
+        "Age": "40",
+        "Height": "167cm",
+        "Weight": "160",
+        "Hair": "Bald",
+        "Eyes": "Tired",
+        "Skin": "Unmoisturized",
+        "Appearance": "Michael Bolton From Office Space (But Bald)",
+        "Backstory": ""
+    },
+    "credits": 150,
+    "equipment": [
+        {
+            "name": "Light repeater",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        },
+        {
+            "name": "Power Cell (Average)",
+            "quantity": "2",
+            "category": "EnhancedItem"
+        },
+        {
+            "name": "Combat suit",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        },
+        {
+            "name": "Tinker's implements",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Wristpad",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Vibrodagger",
+            "quantity": 1,
+            "category": "Equipment",
+            "equipped": true
+        },
+        {
+            "name": "Clothes, common",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Code cylinder",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Chance cubes",
+            "quantity": 1,
+            "category": "Equipment"
+        },
+        {
+            "name": "Cybertech's implements",
+            "quantity": 1,
+            "category": "Equipment"
+        }
+    ],
+    "currentStats": {
+        "hitPointsLost": 0,
+        "temporaryHitPoints": 0,
+        "techPointsUsed": 0,
+        "forcePointsUsed": 0,
+        "superiorityDiceUsed": 0,
+        "hitDiceUsed": {},
+        "deathSaves": {
+            "successes": 0,
+            "failures": 0
+        },
+        "hasInspiration": false,
+        "featuresTimesUsed": {},
+        "conditions": [],
+        "exhaustion": 0,
+        "highLevelCasting": {
+            "level6": false,
+            "level7": false,
+            "level8": false,
+            "level9": false
+        }
+    },
+    "tweaks": {
+        "abilityScores": {
+            "Wisdom": {
+                "skills": {
+                    "Insight": {
+                        "proficiency": "Proficient"
+                    },
+                    "Perception": {
+                        "proficiency": "Proficient"
+                    }
+                }
+            },
+            "Intelligence": {
+                "skills": {
+                    "Investigation": {
+                        "proficiency": "Expertise"
+                    },
+                    "Piloting": {
+                        "proficiency": "Proficient"
+                    },
+                    "Technology": {
+                        "proficiency": "Proficient"
+                    }
+                }
+            }
+        }
+    },
+    "customProficiencies": [
+        {
+            "name": "Cybertech's implements",
+            "type": "tool",
+            "proficiencyLevel": "proficient"
+        },
+        {
+            "name": "Tinker's implements",
+            "type": "tool",
+            "proficiencyLevel": "proficient"
+        },
+        {
+            "name": "Gadgeteer's implements",
+            "type": "tool",
+            "proficiencyLevel": "proficient"
+        }
+    ],
+    "customLanguages": [
+        "Droid"
+    ],
+    "customFeatures": [
+        {
+            "name": "Unstable Engineering",
+            "content": "Unstable Engineering\n\nThose engineers who choose the Unstable Engineering discipline create and use untested combinations, resulting in powerful�and often unpredictable�effects.\nBonus Proficiencies\n\nUnstable Engineering: 3rd level\nYou gain proficiency in your choice of artisan's implements. Additionally, when you engage in crafting with tinker's implements, the rate at which you craft doubles.\nModified Tinkercannon\n\nUnstable Engineering: 3rd, 9th, and 17th level\nYou learn to enhance your tinker's implements with unstable science, modifying them into a harness with a cannon. Over the course of a long rest, you can modify your tinker's implements to create a tinkercannon. You must have tinker's implements in order to perform this modification.\n\nWhenever you cast a tech power of 1st level or higher while wielding your tinkercannon, you risk unexpected complications. Your GM can have you roll a d20. If you roll a 1, roll on the Unstable Engineering Surge table to create a random effect.\n\nAdditionally, your tinkercannon come equipped with four overrides, and they gain more at higher levels, as shown in the Modification Slots column of the engineer table. Each time you trigger an Unstable Engineering Surge, you can use an override to reroll the percentile dice. You must use the new result, you can only do this once per surge, and each time you do so in excess of your proficiency bonus (resetting on a long rest) your maximum tech points is reduced by 1 until you complete a long rest. You regain all expended overrides when you complete a long rest.\nUnstable Volley\n\nUnstable Engineering: 3rd, 9th, and 17th level\nWhile wielding your tinkercannon, as a bonus action you can expend one use of your Potent Aptitude to launch a volley of unstable energy at a surface located within 30 feet of you that you can see. This energy adheres to the surface for 1 minute, after which it erupts. As a part of this bonus action, or as a bonus action on a following turn, you can cause the energy to erupt early. Each creature within 5 feet of it must make a Dexterity saving throw against your tech save DC. A creature takes 1d6 lightning damage on a failed save, or half as much on a successful one.\n\nThe range at which you can launch your volley increases to 60 feet at 9th level, and 120 feet at 17th level.\n\nThis damage increases when you reach certain levels in this class, increasing to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.\nCreative Destruction\n\nUnstable Engineering: 6th level\nYou can add your governing ability modifier (minimum of +1) to any damage you deal with tech powers and class features that don't already include that modifier. If the tech power or class feature would damage multiple creatures, you can only deal this additional damage to one of them.\n\nIf you choose to deal this additional damage, your GM can have you roll on the Unstable Engineering Surge table.\nExperimental Overrides\n\nUnstable Engineering: 14th level\nYou gain a modicum of control over your surges. Whenever you roll on the Unstable Engineering Surge table and use one of your overrides, you can choose either total.\nEngineering Bombardment\n\nUnstable Engineering: 18th level\nThe harmful energies of your tech powers and class features intensify. When you roll damage for a tech power or class feature and roll the highest number possible on any of the dice, you can roll it again and use both results. You can only use this ability once per tech power or class feature.\nUnstable Engineering Surge\nd100 \tResult\n01-02 \tRoll on this table at the start of each of your turns for 1 minute, ignoring this result on subsequent rolls.\n03-04 \tFor the next minute, you can see any invisible creature if you have line of sight to it.\n05-06 \tA DRK-1 tracker droid appears with 5 feet of you, then disappears 1 minute later.\n07-08 \tYou cast explosion at 3rd-level centered on yourself without expending tech points.\n09-10 \tYou cast homing rockets at 5th-level without expending tech points.\n11-12 \tRoll a d10. Your height changes by a number of inches equal to the roll: if odd, you shrink; if even, you grow.\n13-14 \tYou fall asleep standing for 1 minute or until you take damage.\n15-16 \tFor the next minute, you regain 5 hit points at the start of each of your turns\n17-18 \tYou grow a long beard made of feathers that remains until you sneeze.\n19-20 \tYou cast oil slick centered on yourself without expending tech points.\n21-22 \tCreatures have disadvantage on the first saving throw they make against you in the next minute.\n23-24 \tYour skin turns a vibrant shade of blue. Any effect that ends a curse ends this.\n25-26 \tYou grow an extra eye, granting advantage on Wisdom (Perception) checks that rely on sight for 1 minute.\n27-28 \tFor the next minute, all your tech powers with a casting time of 1 action have a casting time of 1 bonus action.\n29-30 \tYou teleport up to 60 feet to an unoccupied space of your choice that you can see.\n31-32 \tYou take 2d10 lightning damage and are shocked for 1 minute.\n33-34 \tMaximize the damage of the next damaging tech power you cast within the next minute.\n35-36 \tRoll a d10. Your age changes by a number of years equal to the roll: if odd, younger; if even, older.\n37-38 \tYou start running uncontrollably for 1 minute, moving your entire speed each turn.\n39-40 \tYou regain 2d10 hit points.\n41-42 \tEach creature within 30 feet of you is subjected to the gleaming outline tech power for 1 minute.\n43-44 \tFor the next minute, you can teleport up to 20 feet as a bonus action on each of your turns.\n45-46 \tYou are blinded and deafened for 1 minute.\n47-48 \tYou have disadvantage on the first ability check, attack roll, or saving throw you make each turn for 1 minute.\n49-50 \tYou can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth.\nd100 \tResult\n51-52 \tA shimmering energy barrier grants you a +2 bonus to AC for 1 minute.\n53-54 \tYou are immune to being intoxicated by alcohol for the next 5d6 days.\n55-56 \tYour hair falls out but grows back within 24 hours. If you don't have hair, you instead grow it for 24 hours.\n57-58 \tFor 1 minute, any flammable object not worn or carried you touch bursts into flame.\n59-60 \tYou regain tech points equal to your Intelligence modifier (minimum of one).\n61-62 \tFor the next minute, you shout whenever you speak.\n63-64 \tYou cast smoke cloud centered on yourself without expending tech points.\n65-66 \tUp to three creatures you choose within 30 feet of you take 4d10 lightning damage.\n67-68 \tYou are frightened by the nearest creature until the end of your next turn.\n69-70 \tEach creature within 30 feet of you becomes invisible for 1 minute, or until it attacks or casts a power.\n71-72 \tYou gain resistance to all damage for the next minute.\n73-74 \tA random creature within 60 feet of you becomes poisoned for 1d4 hours.\n75-76 \tYou emit bright light in a 30-foot radius for 1 minute.\n77-78 \tEach creature within 30 feet of you except you gains the benefits of mirror image for 1 minute.\n79-80 \tIllusory butterflies and flower petals flutter in the air within 10 feet of you for the next minute.\n81-82 \tYou can take one additional action immediately.\n83-84 \tEach creature within 30 feet of you takes 1d10 necrotic damage and you gain hit points equal to the damage.\n85-86 \tYou cast mirror image without expending tech points.\n87-88 \tYou are frozen in carbonite and paralyzed for 1 minute or until you take damage.\n89-90 \tYou turn invisible and can't make sound for 1 minute, or until you attack or cast a power.\n91-92 \tIf you die within the next minute, you immediately come back to life as if by the defibrillate power.\n93-94 \tYour size increases by one size category for the next minute.\n95-96 \tYou and all creatures within 30 feet of you gain vulnerability to energy damage for the next minute.\n97-98 \tYou are surrounded by faint, ethereal music for the next minute.\n99-100 \tYou regain half your expended tech points.\n"
+        },
+        {
+            "name": "Office Worker",
+            "content": "Information Technology"
+        }
+    ],
+    "customFeats": [],
+    "customTechPowers": [],
+    "customForcePowers": [],
+    "customEquipment": [
+        {
+            "name": "Explorer's Pack",
+            "quantity": 1,
+            "equipmentCategory": "Gear",
+            "cost": 0,
+            "description": "",
+            "weight": 1
+        }
+    ],
+    "settings": {
+        "isEnforcingForcePrerequisites": true,
+        "isFixedHitPoints": false,
+        "abilityScoreMethod": "Standard Array"
+    },
+    "notes": "",
+    "createdAt": 1645992019694,
+    "changedAt": 1645993896614,
+    "localId": "temp-yh381saz7"
+}
